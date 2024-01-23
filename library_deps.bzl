@@ -50,7 +50,7 @@ BATFISH_MAVEN_ARTIFACTS = [
     "io.github.java-diff-utils:java-diff-utils:4.12",
     "org.glassfish.grizzly:grizzly-http-server:2.4.4",
     "org.glassfish.grizzly:grizzly-framework:2.4.4",
-    "org.glassfish.jersey.containers:jersey-container-grizzly2-http:2.41",
+    "org.glassfish.jersey.containers:jersey-container-grizzly2-http:3.1.5",
     "org.glassfish.jersey.core:jersey-client:2.41",
     "org.glassfish.jersey.core:jersey-common:2.41",
     "org.glassfish.jersey.core:jersey-server:2.41",
