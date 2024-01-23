@@ -56,7 +56,7 @@ BATFISH_MAVEN_ARTIFACTS = [
     "org.glassfish.jersey.core:jersey-server:2.41",
     "org.glassfish.jersey.inject:jersey-hk2:2.41",
     "org.glassfish.jersey.media:jersey-media-json-jackson:2.41",
-    maven.artifact(group = "org.glassfish.jersey.test-framework", artifact = "jersey-test-framework-core", version = "2.41", exclusions = [maven.exclusion(group = "junit", artifact = "junit")]),
+    maven.artifact(group = "org.glassfish.jersey.test-framework", artifact = "jersey-test-framework-core", version = "3.1.5", exclusions = [maven.exclusion(group = "junit", artifact = "junit")]),
     maven.artifact(group = "org.glassfish.jersey.test-framework.providers", artifact = "jersey-test-framework-provider-grizzly2", version = "2.41", exclusions = [maven.exclusion(group = "junit", artifact = "junit")]),
     "org.hamcrest:hamcrest:2.2",
     "org.lz4:lz4-java:1.8.0",
