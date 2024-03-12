@@ -7,7 +7,7 @@ load("@rules_jvm_external//:specs.bzl", "maven")
 # See: https://github.com/bazelbuild/rules_jvm_external#exporting-and-consuming-artifacts-from-external-repositories
 BATFISH_MAVEN_ARTIFACTS = [
     "com.carrotsearch:hppc:0.9.1",
-    "com.fasterxml.jackson.core:jackson-annotations:2.16.1",
+    "com.fasterxml.jackson.core:jackson-annotations:2.16.2",
     "com.fasterxml.jackson.core:jackson-core:2.16.1",
     "com.fasterxml.jackson.core:jackson-databind:2.16.1",
     "com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.16.1",
