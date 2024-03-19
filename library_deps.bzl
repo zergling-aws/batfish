@@ -52,7 +52,7 @@ BATFISH_MAVEN_ARTIFACTS = [
     "org.glassfish.grizzly:grizzly-framework:2.4.4",
     "org.glassfish.jersey.containers:jersey-container-grizzly2-http:2.41",
     "org.glassfish.jersey.core:jersey-client:2.41",
-    "org.glassfish.jersey.core:jersey-common:2.41",
+    "org.glassfish.jersey.core:jersey-common:3.1.5",
     "org.glassfish.jersey.core:jersey-server:2.41",
     "org.glassfish.jersey.inject:jersey-hk2:2.41",
     "org.glassfish.jersey.media:jersey-media-json-jackson:2.41",
